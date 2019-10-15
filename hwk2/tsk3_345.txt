@@ -1,0 +1,3 @@
+proportion of no inlinks: 26.153633041013563 %
+proportion of no outlinks: 61.066416614276434%
+proportion of PageRank that less than initial: 84.4853857875052%

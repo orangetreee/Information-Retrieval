@@ -1,0 +1,24 @@
+
+total iterations: 1
+id:0 node:A value0.24930555555555556
+id:1 node:B value0.11944444444444445
+id:2 node:C value0.14305555555555555
+id:3 node:D value0.13125
+id:4 node:E value0.2138888888888889
+id:5 node:F value0.14305555555555555
+
+total iterations: 10
+id:0 node:A value0.25203637602817186
+id:1 node:B value0.13930650918251078
+id:2 node:C value0.1512937659347507
+id:3 node:D value0.11896297277689878
+id:4 node:E value0.18710661014291707
+id:5 node:F value0.1512937659347507
+
+total iterations: 100
+id:0 node:A value0.2521271053751956
+id:1 node:B value0.1393061853185386
+id:2 node:C value0.1513064898667053
+id:3 node:D value0.11890782257353921
+id:4 node:E value0.18704590699931614
+id:5 node:F value0.1513064898667053
