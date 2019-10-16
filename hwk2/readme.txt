@@ -1,3 +1,5 @@
+Pagerank algorithm implementation
+*************************************************************************
 The result txt files are:
 task1.txt 		--result of first question
 perplexity.txt	--perplexity result of question2
