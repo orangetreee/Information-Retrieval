@@ -1,3 +1,5 @@
+This is a Python code to build a web crawler
+
 the packages used in the project:
 request, re, bs4, xlwt
 
